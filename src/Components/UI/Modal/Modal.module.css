@@ -3,13 +3,21 @@
     z-index: 500;
     background-color: white;
     width: 70%;
-    border: 1px solid #ccc;
-    box-shadow: 1px 1px 1px black;
+    list-style: none;
     padding: 16px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 15px 0px rgba(0, 0, 0, 0.548);
+    border:  2px solid black;
+    text-align: center;
+    border-radius: 15px;
     left: 15%;
-    top: 30%;
+    top: 20%;
     box-sizing: border-box;
     transition: all 0.3s ease-out;
+}
+.Modal ul{
+    list-style: none;
+    padding: 0;
 }
 
 @media (min-width: 600px) {
