@@ -1,0 +1,30 @@
+.Input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.Label{
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+}
+.InputElement{
+    display: block;
+    margin: 5px auto;
+    background: transparent;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 5px 8px;
+    color: black;
+    width: 80%;
+    transition: all 0.13s ease-out;
+}
+.InputElement:focus{
+    outline: none;
+    padding: 7px 10px;
+    box-shadow: 0 0 4px 0 #333;
+}
+::placeholder{
+    color: black;
+}

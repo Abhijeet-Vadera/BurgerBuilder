@@ -7,7 +7,7 @@
     border-radius: 5px;
     /* background-color: peru; */
     background: rgb(255,255,255);
-background: linear-gradient(151deg, rgba(255,255,255,1) 4%, rgba(208,208,208,1) 50%, rgba(219,219,219,1) 50%, rgba(255,255,255,1) 95%);
+    background: linear-gradient(151deg, rgba(255,255,255,1) 4%, rgba(208,208,208,1) 50%, rgba(219,219,219,1) 50%, rgba(255,255,255,1) 95%);
     padding: 15px;
 }
 .Input{
