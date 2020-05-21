@@ -55,6 +55,7 @@
 
 @media (max-width: 800px){
     .BuildControlls{
-        width:100%;
+        width:90%;
+        margin-left: 1.2rem;
     }
 }

@@ -36,3 +36,9 @@
 .meat{
     background-color: rgba(141, 45, 0, 0.5);
 }
+
+@media (max-width:600px){
+    .Order{
+        max-width:90%;
+    }
+}
