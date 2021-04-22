@@ -45,7 +45,7 @@ class ContactData extends Component {
                 this.setState({ loading: false })
                 console.log(error)
             });
-        // this.purchaseHandlerClosed() 
+        // this.purchaseHandlerClosed()
     }
     render() {
         let form = (<form>
